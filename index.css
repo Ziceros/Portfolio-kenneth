@@ -69,6 +69,13 @@ nav {
   border: rgb(52, 87, 163);
   color: rgb(205, 206, 219) ;
   border-radius: 8px;
+
+  /* background-color: black; */
+transition: 0.2 s;
+box-shadow: 0px 10px 30px -15px rgb(8, 1, 1);
+}
+#ken2:hover{
+  transform: scale(1.1);
 }
 
 .nbre{
