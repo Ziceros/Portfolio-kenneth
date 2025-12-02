@@ -13,7 +13,7 @@
   display: flex;
   /* Deuxieme étapes */
   justify-content: space-between;
-  background-color: rgb(32, 37, 109);
+  background-color: rgb(32, 104, 109);
   color: rgb(234, 242, 245);
   /* centrer le contenu du header */
   align-items: center;
@@ -108,7 +108,7 @@ box-shadow: 0px 10px 30px -15px rgb(8, 1, 1);
   text-align: center;
 
   padding: 90px;
-  background-color:rgb(32, 37, 109);
+  background-color:rgb(32, 104, 109);
   color: rgb(205, 202, 219);
 }
 p{
@@ -257,7 +257,7 @@ color: #021f49;
 
 
 footer {
-    background-color: blue;
+    background-color: rgb(32, 104, 109);;
     color: #ccc;
     padding: 30px;
     text-align: center;
